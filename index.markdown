@@ -4,9 +4,7 @@
 
 layout: home
 ---
-## Introduction
-
-### What APIs are and why they're important to understand
+## What APIs are and why they're important to understand
 
 **API** stands for "**active pharmaceutical ingredient**." An API is the part of a medication or drug that produces the intended therapeutic effect. In simpler terms, it's **the component of a medication that makes it work**.
 
